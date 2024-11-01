@@ -10,7 +10,7 @@
      Danish Naeem Rao
 
   # Submissions
-    Dudley Andre,  https://github.com/andredudley/CSCI4211AD (empty)
+    Dudley Andre,  https://github.com/andredudley/CSCI4211AD
   
     Demario Jackson, https://github.com/demariojackson/CSCI4221
   
